@@ -9,8 +9,3 @@ Then Admin Login
 # Then Create Supplier2
 # Then Update Supplier
 # Then Delete Supplier
-
-
-
-
-# Then user closing the browser
